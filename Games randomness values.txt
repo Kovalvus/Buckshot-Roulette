@@ -1,0 +1,19 @@
+Game 1:
+
+round 1 --> guaranteed 2 blanks and 1-2 lives
+2-4 shells
+3 HP
+
+Game 2:
+
+round 1 --> guaranteed 2 lives and 2-3 blanks, 2 items
+4-6 shells
+5 HP
+1-3 items
+
+Game 3:
+
+round 1 --> guaranteed 4 items
+5-8 shells
+6 HP
+2-5 items

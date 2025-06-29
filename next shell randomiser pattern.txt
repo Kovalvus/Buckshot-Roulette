@@ -1,0 +1,12 @@
+1,2,3,4,5
+1,2 - blank
+3,4,5 - live
+
+noblanks = 2
+nolives = 3
+chambercapacity = noblanks + nolives = 5
+
+randint(1 - chambercapacity) = (1-5)
+
+1 - noblanks (1-2) = blank
+noblanks - chambercapacity (2-5) = live
